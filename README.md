@@ -27,7 +27,7 @@ I am a Frontend Engineer from Portugal 🇵🇹, currently living in Madrid, Spa
 
 - ⚡️ In my free time, I like to read 📚 (tech and non-tech) and watch football ⚽️.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/tiago-ferreira-frontend))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ferreira-frontend)
 
 ---
 
